@@ -1,18 +1,22 @@
 # 📊 Data Analytics Portfolio  
 ### Aryan Manish Singh  
 
+Aspiring Data Analyst with strong foundation in SQL, Excel, PowerBI, Python and Business Analytics.  
+Focused on solving real-world problems using structured data analysis, statistical reasoning, and business insight generation.
+
 Graduate B.Tech (Electronics & Communication Engineering)  
 VIT Vellore | CGPA: 8.79  
 
 ---
 
-## 🛠 Technical Skills
-- SQL (MySQL Workbench)
-- Microsoft Excel
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Data Cleaning & Preprocessing
-- Dashboard Development
+## 🔧 Core Skills
+
+- **SQL** (Joins, Subqueries, CTEs, Window Functions, Cohort Analysis)
+- **Microsoft Excel** (Pivot Tables, Dashboards, EDA, Statistical Analysis)
+- **Data Cleaning & Preprocessing**
+- **Exploratory Data Analysis (EDA)**
+- **Market Sizing & Business Modeling**
+- **Trend & Growth Analysis**
 
 ---
 
